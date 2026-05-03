@@ -73,7 +73,7 @@ END AS Customersegment
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+[Online Retail Project](images/dashboard.png)
 
 ---
 
